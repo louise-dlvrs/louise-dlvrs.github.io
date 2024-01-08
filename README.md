@@ -9,3 +9,5 @@ Er Martha Louise A. Delovieres
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0zSYd7fzUyUDDydqPVYxiH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [study](https://www.notion.so/S-C-H-O-O-L-fe1e3dd599a4416b9e9bf8dea58a0e07?pvs=4)
+
+![books to read](https://pin.it/7tYgvGA)
